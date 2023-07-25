@@ -15,3 +15,6 @@ Plantillas con las esteticas mas comunes
 ![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/toggleswitch.png)
 ![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/cards1.png)
 ![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/card3d.png)
+![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/selectorCircular.png)
+![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/cardTecnologica.png)
+![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/cardTecnologica2.png)
