@@ -20,3 +20,4 @@ Plantillas con las esteticas mas comunes
 ![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/cardTecnologica2.png)
 ![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/nekucardsignos.png)
 ![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/nekuprogressbar.png)
+![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/nekucardcontacto.png)
