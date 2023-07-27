@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tarjeta con CSS y HTML</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .card {
+            width: 307px;
+            height: 130px; /* Aumentamos la altura de la tarjeta */
+            border-radius: 25px;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            overflow: hidden;
+            position: relative;
+        }
+
+        .header {
+            width: 308px;
+            height: 43px;
+            border-radius: 30px;
+            background: linear-gradient(180deg, #18CCB1 0%, #2BA3C5 100%);
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+        }
+
+        .input-container {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px;
+        }
+
+        .center-input {
+            width: 130px;
+            height: 45px; /* Aumentamos la altura de los inputs */
+            border-radius: 14px;
+            border: 1px solid #858585;
+            background-color: #f2f2f2;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            font-size: 20px;
+            text-align: center;
+        }
+
+        .input-label {
+            text-align: center;
+            font-size: 14px;
+            margin-bottom: 5px; /* Espacio entre el texto y el input */
+        }
+    </style>
+
+    <div class="card">
+        <div class="header"></div>
+        <div class="input-container">
+            <div>
+                <div class="input-label">Peso</div>
+                <input type="text" class="center-input" placeholder="0" >
+            </div>
+            <div>
+                <div class="input-label">Talla</div>
+                <input type="text" class="center-input" placeholder="0">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
