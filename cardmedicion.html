@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tarjeta con CSS y HTML</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .card {
+            width: 307px;
+            height: 110px;
+            border-radius: 25px;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            overflow: hidden;
+        }
+
+        .header {
+            width: 308px;
+            height: 43px;
+            border-radius: 30px;
+            background: linear-gradient(180deg, #18CCB1 0%, #2BA3C5 100%);
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+        }
+
+        .center-input {
+            width: 69px;
+            height: 49px;
+            border-radius: 14px;
+            border: 1px solid #858585;
+            background-color: #f2f2f2;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            margin-top: 5px; /* Ajuste el valor de margin-top aquí */
+            position: relative;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 20px; /* Establece el tamaño de fuente a 20 px */
+            text-align: center; /* Centra el texto horizontalmente */
+        }
+    </style>
+
+    <div class="card">
+        <div class="header"></div>
+        <input type="text" class="center-input" placeholder="0" >
+    </div>
+</body>
+</html>
