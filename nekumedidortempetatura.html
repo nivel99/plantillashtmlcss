@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+  }
+  .container {
+    width: 90%;
+    max-width: 900px;
+    height: 60px;
+    border-radius: 25px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    overflow: hidden;
+  }
+  .box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    color: white;
+  }
+  .blue { background-color: blue; }
+  .green { background-color: green; }
+  .yellow { background-color: yellow; }
+  .orange { background-color: orange; }
+  .red { background-color: red; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="box blue">Azul</div>
+    <div class="box green">Verde</div>
+    <div class="box yellow">Amarillo</div>
+    <div class="box orange">Naranja</div>
+    <div class="box red">Rojo</div>
+  </div>
+</body>
+</html>
