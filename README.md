@@ -24,3 +24,4 @@ Plantillas con las esteticas mas comunes
 ![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/cardMedicion.png)
 ![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/cardmedicion2columnas.png)
 ![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/nekumedidortempetatura.png)
+![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/template1.png)
