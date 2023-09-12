@@ -28,3 +28,4 @@ Plantillas con las esteticas mas comunes
 ![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/ondas.png)
 ![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/nftcards.png)
 ![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/nftcard2.png)
+![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/nftcard3.png)
