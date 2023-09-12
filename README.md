@@ -26,3 +26,4 @@ Plantillas con las esteticas mas comunes
 ![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/nekumedidortempetatura.png)
 ![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/template1.png)
 ![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/ondas.png)
+![alt tag](https://github.com/inteligenciafutura/plantillashtmlcss/blob/main/Capturas/nftcards.png)
